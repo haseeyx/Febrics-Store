@@ -1,4 +1,26 @@
-﻿# Febrics-Store
+ <img width="1584" height="773" alt="image" src="https://github.com/user-attachments/assets/beb9d9ad-3373-4817-81cc-067b3684ca37" />
+ <img width="1599" height="777" alt="image" src="https://github.com/user-attachments/assets/ce9140e2-3a4c-4318-be31-da4a3e3a2b13" />
+<img width="1599" height="780" alt="image" src="https://github.com/user-attachments/assets/51b775a0-68bf-48ce-bf75-3098c68504b8" />
+<img width="1599" height="775" alt="image" src="https://github.com/user-attachments/assets/ddb2fbc8-7570-4c4b-a549-a24ebd2a3fe8" />
+<img width="1598" height="873" alt="image" src="https://github.com/user-attachments/assets/66f39475-d4b8-486a-8825-aae2d6980194" />
+<img width="1599" height="772" alt="image" src="https://github.com/user-attachments/assets/5a5f09f3-2fdd-491f-b656-1bbc70065f1b" />
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ # Febrics-Store
 
 Premium UI Elements:
 
@@ -69,3 +91,12 @@ Subtle shadows and depth effects
 Custom scrollbar styling
 
 Animated back-to-top button
+
+
+
+
+
+
+
+
+
